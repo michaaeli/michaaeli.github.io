@@ -4,6 +4,12 @@ import { FaGithub } from 'react-icons/fa';
 
 const projectData = [
   {
+    title: "Hatchery Website (Project Feta)",
+    description: "Architected a secure Django MVT application featuring complex ORM-driven scheduling, a 6-tier Role-Based Access Control system, and a dynamic certification tracking dashboard.",
+    technologies: ["Python", "Django", "SQLite", "HTML", "CSS"],
+    github: "https://github.com/CSCI3356-Fall2025/Feta",
+  },
+  {
     title: "Personal Portfolio Website",
     description: "My personal portfolio website designed to showcase my skills, projects, and experiences. Built from scratch with React, Tailwind, and Vite.",
     technologies: ["React", "Tailwind CSS", "Vite", "GitHub Pages"],
