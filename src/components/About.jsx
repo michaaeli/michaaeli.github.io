@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../assets/profile-pic.jpg';
+import profilePic from '../assets/profile-pic.JPG';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 const About = () => {
